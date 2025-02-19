@@ -24,5 +24,6 @@
   },
   "dependencies": {
 
-  }
+  },
+  "browserslist": "> 1%, last 2 versions, Firefox ESR, Safari >= 13, not dead"
 }
