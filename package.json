@@ -1,7 +1,7 @@
 {
   "name": "sigurd-child",
   "version": "1.0.0",
-  "description": "A Wordpress Child Theme starts",
+  "description": "A Wordpress Child Theme starter for you",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -r assets/dist/",
